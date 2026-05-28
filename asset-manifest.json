@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BeKindOnline/static/css/main.e4da9cf0.css",
+    "main.js": "/BeKindOnline/static/js/main.d3bfd926.js",
+    "index.html": "/BeKindOnline/index.html",
+    "main.e4da9cf0.css.map": "/BeKindOnline/static/css/main.e4da9cf0.css.map",
+    "main.d3bfd926.js.map": "/BeKindOnline/static/js/main.d3bfd926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4da9cf0.css",
+    "static/js/main.d3bfd926.js"
+  ]
+}
